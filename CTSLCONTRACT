@@ -1,0 +1,26 @@
+{8 items
+key:
+4
+updateAuthority:
+"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM"
+mint:
+"gywrkiT5v7bD6zn3KCmpjGHJYTjcYan6Y75XqxBpump"
+data:{4 items
+name:
+"Catsol"
+symbol:
+"CTSL"
+uri:
+"https://ipfs.io/ipfs/QmWQ88z87X13Lo4SeDB455yTG1qZYy3AaHjPZES2BuWAAB"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+255
+tokenStandard:
+2
+}
